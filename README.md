@@ -37,5 +37,12 @@ pip install -r requirements.txt
      ```bash
     pyinstaller [your python file].py --onefile
     ```
-    
+- Once we have an executable Python file, we can then merge the image we want into that Python file by using Winrar.
 
+_After finishing all the requirements, it should be good to go. You can then add it to an evil flash drive that will run a bat file when plugged into a PC. [for the sake of demonstration]_
+
+#Limitation of our program:
+- We don't steal a token in local databse in your chrome (like your discord token)
+- We don't install a **backdoor or any persistent backdoor** it is a one time code execution
+- We don't add or install any other software program to your machine
+- We don't run any serious malicious activity aside from the list we mentioned earlier.
