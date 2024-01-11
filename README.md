@@ -1,6 +1,7 @@
 # Shinobi 
 _Discord trojan_
-created by *jonathan jaquias*,*unamay labial*,*jackielyn luna*,*euri camino* 
+created by *jonathan jaquias*, *unamay labial*, *jackielyn luna*, *euri camino* 
+
 _**disclaimer**_: **For educational purposes only**
 
 Shinobi is a trojan that disguises itself as a normal picture, but when a victim opens the image, it will run a **python script** in the background, giving access to the attacker's machine. The attacker or attackers can then send a command via Discord, and it will execute on the victim's machine. **
