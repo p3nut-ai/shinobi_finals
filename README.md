@@ -1,4 +1,4 @@
-# shinobi_finals
+# Shinobi _Discord trojan_
 created by *jonathan jaquias*,*unamay labial*,*jackielyn luna*,*euri camino* 
 _**disclaimer**_: **For educational purposes only**
 
