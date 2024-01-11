@@ -30,7 +30,7 @@ pip install -r requirements.txt
 - open main.py to edit **Discord bot token** and **Server Channel ID** or add your own command.
 - once finished make sure to convert the python file to an **executable EXE**
 
-  #Convert py to exe
+  # Convert py to exe
   - Install PyInstaller package
     ```bash
     pip install pyinstaller 
